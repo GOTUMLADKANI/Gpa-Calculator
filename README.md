@@ -1,5 +1,5 @@
 # Gpa-Calculator
-# Build by using PostgreSQL Database Node.js Sql 
+# Build by using (PostgreSQL Database, Node.js, Sql)
 
 About This Project
 
